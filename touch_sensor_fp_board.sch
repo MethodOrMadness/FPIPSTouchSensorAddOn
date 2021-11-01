@@ -457,7 +457,7 @@ Wire Wire Line
 Text Notes 3900 2800 0    50   ~ 0
 input from agb
 Text Notes 5150 2800 0    50   ~ 0
-input from agb
+GND on FP Ribbon
 Text Notes 6350 2850 0    50   ~ 0
 (Optionally tie TP5 to GND to not use a third togglable touch sensor, only do this if you dont populate the IC's footprint)
 Text Notes 2750 4550 0    50   ~ 0
