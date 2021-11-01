@@ -30,5 +30,8 @@ I havent yet built this, I cannot verify that it actually works as intended, for
 | P2 | Touch Sensor for increasing brightness |
 | P3 | Touch sensor for select(optional, only needed if you populate U3, C3, and C6) |
 
+## Notes
+This should, in theory, work on other IPS kits too, though the connections might be different, I based this off of the FP kit.
+
 ## Credits
 Zekfoo for catching some mistakes I made during the original board design process and for a third touch sensor(optinal) for the SEL pad
