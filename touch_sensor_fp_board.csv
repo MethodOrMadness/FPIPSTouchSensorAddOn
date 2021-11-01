@@ -1,0 +1,10 @@
+Reference, Value, Footprint, Datasheet
+U1,ttp223-ba6,Package_TO_SOT_SMD:SOT-23-6_Handsoldering,https://datasheet.lcsc.com/szlcsc/TTP223-BA6_C80757.pdf
+U2,ttp223-ba6,Package_TO_SOT_SMD:SOT-23-6_Handsoldering,https://datasheet.lcsc.com/szlcsc/TTP223-BA6_C80757.pdf
+U3,ttp223-ba6,Package_TO_SOT_SMD:SOT-23-6_Handsoldering,https://datasheet.lcsc.com/szlcsc/TTP223-BA6_C80757.pdf
+C1,22pF,Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,
+C2,22pF,Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,
+C3,22pF,Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,
+C4,0.1uF,Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,
+C5,0.1uF,Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,
+C6,0.1uF,Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,
