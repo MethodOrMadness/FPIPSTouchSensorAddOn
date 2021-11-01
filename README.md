@@ -26,3 +26,6 @@ I havent yet built this, I cannot verify that it actually works as intended, for
 | P1 | Touch Sensor for decreasing brightness |
 | P2 | Touch Sensor for increasing brightness |
 | P3 | Touch sensor for select(optional, only needed if you populate U3, C3, and C6) |
+
+Credits:
+Zekfoo for catching some mistakes I made during the original board design process and for a third touch sensor(optinal) for the SEL pad
