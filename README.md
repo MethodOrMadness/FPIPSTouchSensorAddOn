@@ -1,4 +1,6 @@
 # FPIPSTouchSensorAddOn
+So there is an issue, apparently FP ribbons dont like a short to ground, and requires a delay. It should still function if you populate u3, c3, and c6 and use a touch sensor on it though
+
 an optional, semi-customizable board to add touch sensors to a funnyplaying AGB IPS screen ribbon, instead of using the SEL+R/L button combination
 
 You can think of the touch sensors connected to P1 and P2 as "momentary" buttons, where as the touch sesnor on P3 act as a "toggle" switch(tap once to enable, tap again to disable)
