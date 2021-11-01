@@ -3,6 +3,9 @@ an optional, semi-customizable board to add touch sensors to a funnyplaying AGB 
 
 You can think of the touch sensors connected to P1 and P2 as "momentary" buttons, where as the touch sesnor on P3 act as a "toggle" switch(tap once to enable, tap again to disable)
 
+![PCB_FRONT](images/pcb_front.png)
+![PCB_BACK](images/pcb_back.png)
+
 I havent yet built this, I cannot verify that it actually works as intended, for building and installation I suggest referring to the schematic file, as it contains some notes.
 
 ## BOM
