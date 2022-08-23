@@ -24,9 +24,9 @@ I havent yet built this, I cannot verify that it actually works as intended, for
 |-----|---------------|
 | TP1 | L On FP Ribbon|
 | TP2 | R On FP Ribbon|
-| TP3 | GND On FP Ribbon|
+| TP3 | SEL On FP Ribbon|
 | TP4 | 3.3v on AGB |
-| TP5 | Select on FP Ribbon(optinonally tie to ground if you dont populate U3, C3, and C6 |
+| TP5 | optinonal, tie to ground if you dont populate U3, C3, and C6 |
 | TP6 | GND On FP Ribbon |
 | P1 | Touch Sensor for decreasing brightness |
 | P2 | Touch Sensor for increasing brightness |
